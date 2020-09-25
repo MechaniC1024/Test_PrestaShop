@@ -1,0 +1,6 @@
+.allure
+.settings
+target/
+test-output
+*.class
+*.jar
